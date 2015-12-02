@@ -1,10 +1,10 @@
 <?php
 class Database
 {
-  private $db_hostname = 'wp111.webpack.hosteurope.de';
-  private $db_username = 'db1144980-logis';
-  private $db_password = 'xyzmlp09';
-  private $db_database = 'db1144980-2';
+  private $db_hostname = 'aaa';
+  private $db_username = 'xxx';
+  private $db_password = 'yyy';
+  private $db_database = 'zzz';
   
   //DB-Tabellen-Namen mit optionalem gemeinsamen Prename
   
